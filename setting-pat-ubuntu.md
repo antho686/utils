@@ -1,6 +1,6 @@
 # How to install a GitHub Personnal Access Token on ubuntu (secure)
 this how-to has been copied from: https://gist.github.com/mppf/bc354d8c6277e999c27bbbca0c2a034f
-(copied since we saw what happened with Alexey Pertsev)
+(copied since we saw what happened with [Alexey Pertsev](https://www.dlnews.com/articles/people-culture/alexey-pertsev-accused-of-laundering-1bn-at-tornado-cash/))
 ## Install gpg helper tools
 sudo apt-get install gnupg-agent pinentry-curses
 ## Fix permission on the included git-credential-netrc
