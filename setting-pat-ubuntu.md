@@ -23,7 +23,7 @@ protocol https
 
 ## encrypt the .netrc file for the key created above and remove the original
 ```bash
-gpg --encrypt -r your.email@address ~/.netrc
+gpg --encrypt --recipient your.email@address ~/.netrc
 rm ~/.netrc
 ```
 
