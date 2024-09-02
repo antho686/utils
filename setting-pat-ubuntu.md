@@ -22,8 +22,8 @@ gpg --gen-key
 ## create a .netrc file
 ```
 machine github.com
-login yourgithubid
-password your-github-access-token
+login <your-github-username>
+password <your-github-access-token>
 protocol https
 ```
 
