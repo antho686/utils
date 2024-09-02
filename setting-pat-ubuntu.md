@@ -35,7 +35,7 @@ rm ~/.netrc
 
 ## Tell git to use the git-credential-netrc that came with git
 ```bash
-git config --global credential.helper /usr/share/doc/git/contrib/credential/netrc/git-credential-netrc
+git config --global credential.helper /usr/share/doc/git/contrib/credential/netrc/git-credential-netrc.perl
 ```
 
 ## apply the fix below if you see errors like:
