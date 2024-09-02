@@ -7,7 +7,7 @@ sudo apt-get install gnupg-agent pinentry-curses
 ```
 ## Fix permission on the included git-credential-netrc
 ```bash
-sudo chmod a+x /usr/share/doc/git/contrib/credential/netrc/git-credential-netrc
+sudo chmod a+x /usr/share/doc/git/contrib/credential/netrc/git-credential-netrc.perl
 ```
 
 ## create a GitHub access token for this
